@@ -316,7 +316,7 @@ Probabilities sum to 1.0, representing confidence for each class.
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Otto-Destiny/automated_wildlife_classification_with_CNNs.git
 cd deep-learning-cv-multiclass
 ```
 
