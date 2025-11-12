@@ -272,8 +272,6 @@ Input Image (224×224×3)
 **Total Training Time**: ~1.5-2 hours for 8 epochs
 **GPU Memory**: ~2-4GB VRAM required
 
-> **Note**: A pre-trained model is provided to avoid lengthy training times during initial experimentation.
-
 ---
 
 ## Results & Evaluation
