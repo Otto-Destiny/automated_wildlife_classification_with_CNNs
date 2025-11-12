@@ -256,7 +256,7 @@ Input Image (224×224×3)
 ## Training Pipeline
 
 ### Training Configuration
-![Training Configuration](assets/training_loop-1.png)
+![Training Configuration](assets/training_loop_renamed.png)
 
 ### Training Process
 
