@@ -1,7 +1,6 @@
 # **AI Lab: Deep Learning for Computer Vision**
 # **WorldQuant University**
 #
-#
 
 # **Usage Guidelines**
 #
@@ -27,7 +26,7 @@
 # could lead to your expulsion from WorldQuant University and the revocation
 # your certificate.
 #
-#
+
 
 from collections import Counter
 
