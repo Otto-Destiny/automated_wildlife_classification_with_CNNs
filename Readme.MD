@@ -456,7 +456,6 @@ project_root/
 └── submission.csv                         # Competition predictions
 ```
 
----
 
 ## License & Acknowledgements
 
